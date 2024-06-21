@@ -1,0 +1,5 @@
+first_name = input(" Enter First name : ")
+second_name = input(" Enter Second name : ")
+print(first_name+" "+second_name)
+print(first_name,second_name)
+print(f'your fullname is {first_name} {second_name}')

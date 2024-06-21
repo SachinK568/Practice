@@ -1,0 +1,5 @@
+print("Hellow World")
+print(25+32)
+print(626-98)
+print(62/5)
+print(25*5)

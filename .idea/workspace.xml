@@ -4,27 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="73ebc808-ff9b-4463-9c80-5ef3340b6405" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/Practice.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/030624/Lab001.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/050624/Lab002.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/050624/Lab003.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/050624/Lab004.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/050624/Lab005.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/070624/Lab006.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/070624/Lab007.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/070624/Lab008 format string.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/070624/Lab009.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/070624/Lab010 List.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/100624/Lab011.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/100624/Lab012.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/100624/Lab013.py" afterDir="false" />
-    </list>
+    <list default="true" id="73ebc808-ff9b-4463-9c80-5ef3340b6405" name="Changes" comment="Update" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -40,6 +20,12 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/SachinK568/Practice.git",
+    "accountId": "9b84ecf8-a367-45b1-98e7-06d1bbcb0249"
+  }
+}]]></component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 0
 }</component>
@@ -66,6 +52,7 @@
     "Python.Lab010 List.executor": "Run",
     "Python.Lab011.executor": "Run",
     "Python.Lab012.executor": "Run",
+    "Python.Lab013.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master",
     "ignore.virus.scanning.warn.message": "true"
@@ -208,9 +195,20 @@
       <option name="presentableId" value="Default" />
       <updated>1718689353666</updated>
     </task>
+    <task id="LOCAL-00001" summary="Update">
+      <option name="closed" value="true" />
+      <created>1718951231265</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1718951231265</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="Update" />
+    <option name="LAST_COMMIT_MESSAGE" value="Update" />
   </component>
 </project>

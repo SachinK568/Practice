@@ -4,7 +4,13 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="73ebc808-ff9b-4463-9c80-5ef3340b6405" name="Changes" comment="Update" />
+    <list default="true" id="73ebc808-ff9b-4463-9c80-5ef3340b6405" name="Changes" comment="Update">
+      <change afterPath="$PROJECT_DIR$/100624/Lab015.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/100624/Lab016.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/100624/Lab017.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/100624/Lab014.py" beforeDir="false" afterPath="$PROJECT_DIR$/100624/Lab014.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -20,12 +26,21 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "https://github.com/SachinK568/Practice.git",
-    "accountId": "9b84ecf8-a367-45b1-98e7-06d1bbcb0249"
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;SachinK568&quot;
   }
-}]]></component>
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/SachinK568/Practice.git&quot;,
+    &quot;accountId&quot;: &quot;9b84ecf8-a367-45b1-98e7-06d1bbcb0249&quot;
+  }
+}</component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/100624/Lab015.py" root0="FORCE_HIGHLIGHTING" />
+  </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 0
 }</component>
@@ -37,28 +52,37 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ASKED_ADD_EXTERNAL_FILES": "true",
-    "Python.Lab001.executor": "Run",
-    "Python.Lab002.executor": "Run",
-    "Python.Lab003.executor": "Run",
-    "Python.Lab004.executor": "Run",
-    "Python.Lab005.executor": "Run",
-    "Python.Lab006.executor": "Run",
-    "Python.Lab007.executor": "Run",
-    "Python.Lab008 format string.executor": "Run",
-    "Python.Lab009.executor": "Run",
-    "Python.Lab010 List.executor": "Run",
-    "Python.Lab011.executor": "Run",
-    "Python.Lab012.executor": "Run",
-    "Python.Lab013.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master",
-    "ignore.virus.scanning.warn.message": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
+    &quot;Python.Lab001.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab002.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab003.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab004.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab005.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab006.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab007.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab008 format string.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab009.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab010 List.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab011.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab012.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab013.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab014.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab015.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab016.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab017.executor&quot;: &quot;Run&quot;,
+    &quot;Python.REverse string.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Vowels.executor&quot;: &quot;Run&quot;,
+    &quot;Python.palindrome.executor&quot;: &quot;Run&quot;,
+    &quot;Python.right triiangle star pattern.executor&quot;: &quot;Run&quot;,
+    &quot;Python.zc.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;
   }
-}]]></component>
-  <component name="RunManager">
+}</component>
+  <component name="RunManager" selected="Python.Lab005">
     <configuration name="Lab005" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Practice" />
       <option name="ENV_FILES" value="" />
@@ -203,7 +227,23 @@
       <option name="project" value="LOCAL" />
       <updated>1718951231265</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Update">
+      <option name="closed" value="true" />
+      <created>1718951335951</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1718951335951</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Update">
+      <option name="closed" value="true" />
+      <created>1719168139497</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1719168139497</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
